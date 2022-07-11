@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Github2</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="query_hint">Masukkan kata</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="avatar_favourite">avatar favourite</string>
+    <string name="move_into_favourite_activity">move into favourite activity</string>
+    <string name="follower">Follower</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
